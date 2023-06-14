@@ -1,5 +1,12 @@
 
 image{
     float: inline-end;
+    width: 100px;
+
+}
+.passport-cointainer{
     
+ 
+    gap: 20px;
+    margin-top: 20px;
 }
